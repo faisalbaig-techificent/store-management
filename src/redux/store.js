@@ -1,5 +1,6 @@
 // store.js - This file configures the Redux store
 
+
 import { configureStore } from '@reduxjs/toolkit';
 import cartReducer from './slices/cartSlice';
 
